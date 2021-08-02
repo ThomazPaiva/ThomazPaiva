@@ -1,29 +1,20 @@
-### Olá mundo, eu sou o Thomaz ! 👋
+# Seja bem-vindo ao meu perfil no GitHub! 👋
 
-- 🔭 Em busca do meu primeiro emprego como Desenvolvedor Web
-- 🌱 Estudando: Desenvolvimento Web Full Stack
-- 😄 Pronouns: ele/dele
+Meu nome é Thomaz, tenho 24 anos atualmente e moro em São Vicente - SP!
+Sou estudante na área de **Desenvolvimento Web** e também curso **Análise e Desenvolvimento de Sistemas** pela UNOPAR!
 
-<div>
- <div>
-  <a href="https://github.com/ThomazPaiva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThomazPaiva&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomazPaiva&layout=compact&langs_count=7&theme=react"/>
-</div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Thomaz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Thomaz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Thomaz-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Thomaz-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Thomaz-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</div>
+O perfil ainda está em fase de construção, portanto espero que gostem ! :smile:
 
-  ##
-  
- <div>
-    <a href="https://www.linkedin.com/in/thomazpaiva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://outlook.live.com/mail/0/inbox" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
- </div> 
+:computer: Tenho conhecimento em: **HTML5**, **CSS3**, **JavaScript**, **PHP**, **Orientação a Objetos**, **Bootstrap**, **MySQL**.
 
+**Está interessado em entrar em contato comigo?** :email: É só me enviar uma mensagem através das minhas redes sociais abaixo!
 
+<p align="left">
+ <a href="https://www.linkedin.com/in/thomazpaiva/" alt="Linkedin">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+ <a href="https://api.whatsapp.com/send?phone=5513981780003" alt="WhatsApp">
+   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://outlook.live.com/mail/0/inbox" alt="Outlook">
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" width="200px"/>
+</a>  
+</p>
