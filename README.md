@@ -20,7 +20,7 @@ O perfil ainda está em fase de construção, portanto espero que gostem ! :smil
 **Redes Sociais:**
 
 <p align="left">
- <a href="https://www.linkedin.com/in/thomazpaiva/" alt="Linkedin" target="__blank">
+ <a href="https://www.linkedin.com/in/thomazpaiva/" alt="Linkedin">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
  </a>
   
