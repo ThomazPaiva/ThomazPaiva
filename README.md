@@ -1,6 +1,6 @@
 # Seja bem-vindo ao meu perfil no GitHub! 👋
 
-Meu nome é Thomaz, tenho 24 anos atualmente e moro em São Vicente - SP!
+Meu nome é Thomaz, tenho 25 anos atualmente e moro em São Vicente - SP!
 Sou estudante na área de **Desenvolvimento Web** e também curso **Análise e Desenvolvimento de Sistemas** pela UNOPAR!
 
 O perfil ainda está em fase de construção, portanto espero que gostem ! :smile:
