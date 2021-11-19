@@ -1,9 +1,6 @@
 # Seja bem-vindo ao meu perfil no GitHub! 👋
 
-Meu nome é Thomaz, tenho 25 anos atualmente e moro em São Vicente - SP!
-Sou estudante na área de **Desenvolvimento Web** e também curso **Análise e Desenvolvimento de Sistemas** pela UNOPAR!
-
-O perfil ainda está em fase de construção, portanto espero que gostem ! :smile:
+Me chamo Thomaz, tenho 25 anos e atualmente trabalho como Desenvolvedor Full Stack. Em Dezembro de 2021 concluo a faculdade de Análise e Desenvolvimento de Sistemas pela UNOPAR e também estudo diariamente para me qualificar de acordo com o que o mercado pede.
 
 **Tenho conhecimento em** : <br/> 
 
@@ -13,7 +10,6 @@ O perfil ainda está em fase de construção, portanto espero que gostem ! :smil
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
- <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" 
 </p>
