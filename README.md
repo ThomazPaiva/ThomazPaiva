@@ -1,6 +1,6 @@
 # Seja bem-vindo ao meu perfil no GitHub! 👋
 
-Me chamo Thomaz, tenho 25 anos e atualmente trabalho como Desenvolvedor Full Stack. Em Dezembro de 2021 concluo a faculdade de Análise e Desenvolvimento de Sistemas pela UNOPAR e também estudo diariamente para me qualificar de acordo com o que o mercado pede.
+Me chamo Thomaz, tenho 25 anos e atualmente trabalho como Desenvolvedor Full Stack. Formado em Análise e Desenvolvimento de Sistemas pela UNOPAR, estudo diariamente para me qualificar de acordo com o que o mercado pede e sempre se manter atualizado com as novas tecnologias.
 
 **Tenho conhecimento em** : <br/> 
 
