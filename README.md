@@ -1,8 +1,8 @@
-# Seja bem-vindo ao meu perfil no GitHub! 👋
+# Welcome to my Github! 👋
 
-Me chamo Thomaz, tenho 25 anos e atualmente trabalho como Desenvolvedor Full Stack. Formado em Análise e Desenvolvimento de Sistemas pela UNOPAR, estudo diariamente para me qualificar de acordo com o que o mercado pede e sempre se manter atualizado com as novas tecnologias.
+I'm Thomaz, I'm 25 years old and I'm graduated in Systems Analysis and Development.
 
-**Tenho conhecimento em** : <br/> 
+**I have knowledge in** : <br/> 
 
 <p> 
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -16,7 +16,7 @@ Me chamo Thomaz, tenho 25 anos e atualmente trabalho como Desenvolvedor Full Sta
  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" 
 </p>
 
-**Redes Sociais:**
+**Social Media:**
 
 <p align="left">
  <a href="https://www.linkedin.com/in/thomazpaiva/" alt="Linkedin">
