@@ -1,6 +1,6 @@
-# Welcome to my Github! 👋
+# Hello World. Welcome to my Github! 👋
 
-I'm Thomaz, I'm 25 years old and I'm graduated in Systems Analysis and Development.
+My name is Thomaz, I'm 25 years old, I'm graduated in Systems Analysis and Development and a I'm working as a Junior .NET Developer since November 2021.
 
 **I have knowledge in** : <br/> 
 
@@ -11,7 +11,6 @@ I'm Thomaz, I'm 25 years old and I'm graduated in Systems Analysis and Developme
  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
- <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" 
 </p>
