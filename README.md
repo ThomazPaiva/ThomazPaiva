@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Thomaz, I'm 25 years old, I'm graduated in Systems Analysis and Development and a I'm working as a Junior .NET Developer since November 2021.</p>
+<p align="left">My name is Thomaz, I'm 26 years old, I'm graduated in Systems Analysis and Development and a I'm working as a Junior .NET Developer since November 2021.</p>
 
 ###
 
@@ -18,6 +18,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery logo"  />
+
 </div>
 
 ###
